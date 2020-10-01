@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">FarmaX</string>
+    <string name="title_activity_meus_anuncios">Meus Anúncios</string>
+
+    //ESTADOS
+    <string-array name="estados">
+        <item>Barreiro</item>
+        <item>Batista Campos</item>
+        <item>Benguí</item>
+        <item>Cabanagem</item>
+        <item>Campina</item>
+        <item>Canudos</item>
+        <item>Castanheira</item>
+        <item>Cidade Velha</item>
+        <item>Condor</item >
+        <item>Cremação</item>
+        <item>Curió-Utinga</item>
+        <item>Guamá</item>
+        <item>Jurunas</item>
+        <item>Maracacuera</item>
+        <item>Marambaia</item>
+        <item>Marco</item>
+        <item>Nazaré</item>
+        <item>Pedreira</item>
+        <item>Reduto</item>
+        <item>Sacramenta</item>
+        <item>São Brás</item>
+        <item>Souza</item>
+        <item>Tapanã</item>
+        <item>Telégrafo</item>
+        <item>Tenoné</item>
+        <item>Terra Firme</item>
+        <item>Umarizal</item>
+        <item>Una</item>
+        <item>Val-de-Cães</item>
+    </string-array>
+
+    //CATEGORIAS
+    <string-array name="categorias">
+        <item>Genérico</item>
+        <item>Original</item>
+    </string-array>
+</resources>

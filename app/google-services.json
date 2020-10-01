@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "896824262055",
+    "firebase_url": "https://farmax-app-6b5b3.firebaseio.com",
+    "project_id": "farmax-app-6b5b3",
+    "storage_bucket": "farmax-app-6b5b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896824262055:android:7e1f669443853dad",
+        "android_client_info": {
+          "package_name": "br.unama.henrique.farmaxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896824262055-da70rfajr98n4qk8bnuamctahmd3fmok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.unama.henrique.farmaxapp",
+            "certificate_hash": "cbeb61f6a611a3327c3ff949e50c8fda7e91423c"
+          }
+        },
+        {
+          "client_id": "896824262055-stnad4sqn43jm3d72rnak95t86pj54sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEgw2Ae2FKWYz-N9VIlfz9eang6oXHzYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896824262055-stnad4sqn43jm3d72rnak95t86pj54sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
